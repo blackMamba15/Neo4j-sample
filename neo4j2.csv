@@ -1,9 +1,9 @@
 ﻿Customer_ID,Name,Org_Entity_Type,Org_Type,Org_Sub_type,Specialty
-a,MOUNTAIN VIEW HOSPITAL,Healthcare Facility,Hospital,General Acute Care,null
-b,JOHNS HOPKINS HEALTH SYSTEM,Corporate Parent,IDN,null,null
-c ,FORBES PHARMACY,Distribution,Pharmacy,Retail,null
-d,FAMILY HEALTHCARE PARTNERS,Healthcare Facility,Clinic,Specialty,null
-e,LIGHTHOUSE POINTE VILLAGE AT CHAPEL HARBOR,Healthcare Facility,Residential Care,Specialty,null
-f,UPMC PEDIATRIC CARDIOLOGY,Healthcare Facility,Clinic,null,null
-g,UPMC,Corporate Parent,IDN,null,null
-h,HCA HEALTHCARE,Corporate Parent,IDN,null,null
+A,MOUNTAIN VIEW HOSPITAL,Healthcare Facility,Hospital,General Acute Care,null
+B,JOHNS HOPKINS HEALTH SYSTEM,Corporate Parent,IDN,null,null
+C,FORBES PHARMACY,Distribution,Pharmacy,Retail,null
+D,FAMILY HEALTHCARE PARTNERS,Healthcare Facility,Clinic,Specialty,null
+E,LIGHTHOUSE POINTE VILLAGE AT CHAPEL HARBOR,Healthcare Facility,Residential Care,Specialty,null
+F,UPMC PEDIATRIC CARDIOLOGY,Healthcare Facility,Clinic,null,null
+G,UPMC,Corporate Parent,IDN,null,null
+H,HCA HEALTHCARE,Corporate Parent,IDN,null,null
