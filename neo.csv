@@ -1,4 +1,4 @@
-Hospital1,Hospital2,Affiliation_Type
+Parent,Child,Affiliation_Type
 A,B,Ownership
 B,C,Distribution
 C,D,Purchasing
